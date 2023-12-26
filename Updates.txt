@@ -1,5 +1,4 @@
 ;aiu;
-
 [iCoreConnect_update_9.4]
 Name = iCoreConnect latest update
 ProductVersion = 9.4.0.0
